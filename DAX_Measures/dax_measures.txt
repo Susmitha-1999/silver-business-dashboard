@@ -1,0 +1,92 @@
+New Column:
+GSTAmount = (Sales[MetalCost] + Sales[MakingChargeAmt])* 0.03
+2. MakingChargeAmt = Sales[TotalWeightGrams]*RELATED(Products[MakingChargePercent])
+3. Profit = Sales[InvoiceValue]-(
+    Sales[MetalCost]
+    + Sales[MakingChargeAmt]
+    + Sales[GSTAmount]
+   )
+
+Measures:
+Executive Command Centre:
+1. Total Revenue = SUM(Sales[InvoiceValue])
+2. Total Profit = SUM(Sales[Profit])
+3. Total Orders = DISTINCTCOUNT(Sales[InvoiceNo])
+4. Profit Margin % = DIVIDE([Total Profit],[Total Revenue])
+5.Revenue Last Year = 
+  CALCULATE(
+      [Total Revenue],
+      SAMEPERIODLASTYEAR(Sales[Date])
+  )
+6. Revenue Growth YoY % = 
+   DIVIDE(
+       [Total Revenue]-[Revenue Last Year],
+       [Revenue Last Year]
+   )
+7. Average Silver Rate = AVERAGE(SilverRates[SilverRate_PerGram])
+
+Customer Intelligence:
+8. Repeat Customers =
+   COUNTROWS(FILTER(
+      VALUES(Sales[CustomerID]),
+      CALCULATE(COUNT(Sales[InvoiceNo])) > 1
+   )
+   )
+9. Avg Order Value = DIVIDE( [Total Revenue],[Total Orders])
+10. Total Customers = DISTINCTCOUNT(Sales[CustomerID])
+
+Product and Profitability:
+11. Best Product = 
+    FIRSTNONBLANK(TOPN(1, VALUES(Products[ProductName]), [Total Revenue], DESC),
+     1
+    )
+12. Highest Margin Product = 
+    FIRSTNONBLANK(TOPN(1, VALUES(Products[ProductName]), [Profit Margin %], DESC),
+     1
+    )
+13. Total Products Sold = DISTINCTCOUNT(Sales[ProductID])
+14. Total Quantity Sold = SUM(Sales[Quantity])
+15.  Cumulative Revenue = 
+     VAR CurrentRank =
+        [Revenue Rank]
+     RETURN
+     CALCULATE(
+        [Total Revenue],
+        FILTER(ALL(Products[ProductName]),[Revenue Rank] <= CurrentRank)
+     )
+16. Pareto % = 
+       DIVIDE([Cumulative Revenue],
+              CALCULATE([Total Revenue],
+                  ALL(Products[ProductName]))
+      ) * 100
+
+Inventory and Procurement
+17. Products Needing Reorder = 
+    COUNTROWS(
+        FILTER(Inventory,Inventory[ReorderFlag] = "Reorder")
+    )
+18. Avg Supplier Lead Time = AVERAGE(Purchases[LeadTimeDays])
+19. Inventory Value = sum (Inventory[InventoryValue])
+20. Inventory Turnover = DIVIDE(SUM(Sales[MetalCost]),AVERAGE(Inventory[InventoryValue]))
+21. Purchase Count = DISTINCTCOUNT(Purchases[PurchaseID])
+
+Market Intelligence
+22. Current Silver Rate = 
+    CALCULATE(
+       AVERAGE(SilverRates[SilverRate_PerGram]),
+       LASTDATE(ALLSELECTED(SilverRates[Date]))
+    )
+23. Highest Silver Rate = MAX(SilverRates[SilverRate_PerGram])
+24. Lowest Silver Rate = MIN(SilverRates[SilverRate_PerGram])
+25. Rate Change % = 
+    DIVIDE(
+       [Highest Silver Rate] - [Lowest Silver Rate],
+       [Lowest Silver Rate]
+    )
+
+Customer and Product Details:
+26. Dynamic Customer Title = "Customer : " & SELECTEDVALUE(Customers[CustomerName])
+27. Dynamic Customer City = "City :"&SELECTEDVALUE(Customers[City])
+28. Dynamic Product Title = "Product : " & SELECTEDVALUE(Products[ProductName])
+
+

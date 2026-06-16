@@ -1,0 +1,25 @@
+ProductID,ProductName,Purity,Category,MinWeight,MaxWeight,MakingChargePercent,SupplierID
+P001,Kuttu Vilakku,80%,Temple,700,4500,3,SUP005
+P002,Anklet,80%,Jewellery,28,120,3,SUP001
+P003,Khusbhu Anklet,80%,Jewellery,32,130,3,SUP001
+P004,S Chain,80%,Jewellery,16,60,4,SUP003
+P005,Karab Chain,80%,Jewellery,18,70,4,SUP003
+P006,Earring,80%,Jewellery,3,15,3,SUP001
+P007,Lion Kada,80%,Jewellery,50,140,3,SUP001
+P008,Plain Kaap,80%,Jewellery,38,120,3,SUP001
+P009,Metti,80%,Jewellery,5,15,3,SUP001
+P010,Ring,80%,Jewellery,3,12,3,SUP001
+P011,Kumkum Box,80%,Utility,40,150,3,SUP006
+P012,Glass,80%,Utility,150,450,3,SUP006
+P013,Plate,80%,Utility,180,1400,3,SUP004
+P014,Anklet,92.5%,Jewellery,45,150,9,SUP002
+P015,Metti,92.5%,Jewellery,6,22,9,SUP002
+P016,Kaap,92.5%,Jewellery,50,160,9,SUP002
+P017,Chain,92.5%,Jewellery,25,85,10,SUP003
+P018,Ring,92.5%,Jewellery,4,16,9,SUP002
+P019,Earring,92.5%,Jewellery,4,18,9,SUP002
+P020,Kuttu Vilakku,92.5%,Temple,900,5500,10,SUP005
+P021,Plate,92.5%,Utility,250,1800,10,SUP004
+P022,Cow Idol,92.5%,Temple,80,800,10,SUP005
+P023,Glass,92.5%,Utility,180,500,10,SUP006
+P024,Purse,92.5%,Utility,120,450,10,SUP006

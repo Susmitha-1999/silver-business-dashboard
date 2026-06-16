@@ -1,0 +1,801 @@
+CustomerID,CustomerName,City,CustomerType,PreferredPayment
+CUST0001,Mani Subramaniam,Erode,Wholesale,Bank Transfer
+CUST0002,Sivakumar Mariappan,Madurai,Retail,Bank Transfer
+CUST0003,Ashwin Subramanian,Coimbatore,Wholesale,Bank Transfer
+CUST0004,Gomathi Ramasamy,Tiruppur,Retail,Bank Transfer
+CUST0005,Naresh Jayaraman,Hyderabad,Wholesale,Bank Transfer
+CUST0006,Anand Chinnaswamy,Coimbatore,Retail,Cash
+CUST0007,Ponni Venkatesan,Mumbai,Retail,Bank Transfer
+CUST0008,Natarajan Duraisamy,Erode,Retail,Bank Transfer
+CUST0009,Dhanush Ayyappan,Dharapuram,Retail,Cash
+CUST0010,Parvathi Sakthivel,Coimbatore,Retail,UPI
+CUST0011,Selvam Narayanan,Coimbatore,Retail,UPI
+CUST0012,Kamala Ramamoorthy,Karur,Retail,Card
+CUST0013,Priya Thirumeni,Coimbatore,Wholesale,Bank Transfer
+CUST0014,Sangeetha Kupusamy,Namakkal,Retail,Cash
+CUST0015,Harish Ramasamy,Pollachi,Retail,Cash
+CUST0016,Ramesh Ramamoorthy,Coimbatore,Retail,Cash
+CUST0017,Arjun Murugesan,Coimbatore,Wholesale,Bank Transfer
+CUST0018,Ashwin Ayyappan,Coimbatore,Wholesale,Cash
+CUST0019,Ramesh Rathinam,Salem,Retail,Cash
+CUST0020,Shankar Krishnasamy,Coimbatore,Retail,UPI
+CUST0021,Ponni Mariappan,Erode,Wholesale,UPI
+CUST0022,Indira Chinnaswamy,Coimbatore,Retail,Bank Transfer
+CUST0023,Selvam Subramanian,Coimbatore,Retail,Cash
+CUST0024,Kalaiselvi Thangavel,Coimbatore,Retail,UPI
+CUST0025,Balan Chinnaswamy,Salem,Retail,UPI
+CUST0026,Priya Periyasamy,Tiruppur,Retail,UPI
+CUST0027,Selvi Shanmugam,Coimbatore,Retail,Card
+CUST0028,Nithya Selvaraj,Dharapuram,Retail,UPI
+CUST0029,Surya Kupusamy,Pollachi,Retail,UPI
+CUST0030,Radha Palaniswamy,Coimbatore,Retail,UPI
+CUST0031,Natarajan Muthukrishnan,Erode,Retail,Cash
+CUST0032,Ezhil Marimuthu,Erode,Retail,Cash
+CUST0033,Priya Chinnaswamy,Erode,Retail,UPI
+CUST0034,Ganesh Narayanan,Karur,Retail,UPI
+CUST0035,Vijayalakshmi Srinivasan,Tiruppur,Retail,UPI
+CUST0036,Deepak Murugesan,Karur,Wholesale,UPI
+CUST0037,Deepa Ramasamy,Karur,Wholesale,UPI
+CUST0038,Anitha Sundaram,Coimbatore,Retail,Cash
+CUST0039,Rajeswari Somasundaram,Kochi,Wholesale,Cash
+CUST0040,Balan Marimuthu,Bengaluru,Retail,UPI
+CUST0041,Malathi Sakthivel,Mettupalayam,Wholesale,Bank Transfer
+CUST0042,Manoj Subramanian,Salem,Retail,Bank Transfer
+CUST0043,Zentil Palaniswamy,Tiruppur,Wholesale,Bank Transfer
+CUST0044,Mohan Govindaraj,Coimbatore,Retail,UPI
+CUST0045,Udayakumar Krishnasamy,Erode,Retail,Cash
+CUST0046,Revathi Ponnusamy,Coimbatore,Retail,UPI
+CUST0047,Kavitha Murugesan,Pollachi,Retail,Cash
+CUST0048,Senthil Kupusamy,Coimbatore,Retail,UPI
+CUST0049,Vijayalakshmi Muthukrishnan,Erode,Retail,Card
+CUST0050,Rajesh Sundaram,Coimbatore,Retail,Cash
+CUST0051,Gomathi Muthukrishnan,Bengaluru,Wholesale,Cash
+CUST0052,Venkat Ayyappan,Karur,Retail,Card
+CUST0053,Rani Muthukrishnan,Chennai,Retail,Cash
+CUST0054,Saranya Chinnaswamy,Coimbatore,Retail,UPI
+CUST0055,Sudha Srinivasan,Pollachi,Retail,UPI
+CUST0056,Naresh Arumugam,Tiruppur,Retail,Cash
+CUST0057,Balan Elumalai,Dharapuram,Retail,UPI
+CUST0058,Harish Arumugam,Coimbatore,Wholesale,UPI
+CUST0059,Kala Thirumeni,Coimbatore,Retail,UPI
+CUST0060,Ramesh Sundaram,Coimbatore,Retail,Cash
+CUST0061,Radha Somasundaram,Pollachi,Retail,Cash
+CUST0062,Durai Marimuthu,Coimbatore,Wholesale,Bank Transfer
+CUST0063,Manoj Ayyappan,Madurai,Retail,UPI
+CUST0064,Rithish Kupusamy,Tiruppur,Wholesale,Bank Transfer
+CUST0065,Surya Ponnusamy,Pollachi,Wholesale,Cash
+CUST0066,Thilak Elumalai,Tiruppur,Retail,UPI
+CUST0067,Selvam Sakthivel,Mettupalayam,Retail,Card
+CUST0068,Soundarya Ayyappan,Coimbatore,Retail,Card
+CUST0069,Saravanan Sakthivel,Madurai,Retail,Bank Transfer
+CUST0070,Naresh Ramamoorthy,Erode,Retail,Cash
+CUST0071,Mani Jayaraman,Coimbatore,Retail,Bank Transfer
+CUST0072,Surya Palaniswamy,Namakkal,Retail,UPI
+CUST0073,Meena Selvaraj,Coimbatore,Retail,UPI
+CUST0074,Ramesh Krishnasamy,Salem,Wholesale,Cash
+CUST0075,Mohan Balakrishnan,Mettupalayam,Wholesale,UPI
+CUST0076,Rajeswari Thirumeni,Tiruppur,Wholesale,Cash
+CUST0077,Sumathi Periyasamy,Hyderabad,Retail,Bank Transfer
+CUST0078,Revathi Kupusamy,Hyderabad,Retail,Bank Transfer
+CUST0079,Sangeetha Balakrishnan,Tiruppur,Retail,UPI
+CUST0080,Durai Thangavel,Coimbatore,Wholesale,UPI
+CUST0081,Dinesh Narayanan,Mettupalayam,Retail,UPI
+CUST0082,Sekar Subramaniam,Coimbatore,Retail,UPI
+CUST0083,Saravanan Jayaraman,Tiruppur,Retail,Bank Transfer
+CUST0084,Thilak Krishnasamy,Tiruppur,Wholesale,Bank Transfer
+CUST0085,Malathi Arumugam,Coimbatore,Retail,UPI
+CUST0086,Durai Srinivasan,Coimbatore,Retail,Cash
+CUST0087,Geetha Marimuthu,Bengaluru,Retail,UPI
+CUST0088,Rajan Balakrishnan,Coimbatore,Retail,UPI
+CUST0089,Surya Murugesan,Namakkal,Retail,UPI
+CUST0090,Naresh Sakthivel,Pollachi,Retail,Card
+CUST0091,Harish Subramanian,Hyderabad,Retail,UPI
+CUST0092,Bhuvana Ganesan,Coimbatore,Wholesale,Cash
+CUST0093,Anand Muthukrishnan,Pollachi,Retail,Bank Transfer
+CUST0094,Harish Kupusamy,Erode,Retail,Cash
+CUST0095,Balan Thangavel,Coimbatore,Wholesale,Bank Transfer
+CUST0096,Arjun Srinivasan,Pollachi,Wholesale,UPI
+CUST0097,Kamal Selvaraj,Namakkal,Retail,UPI
+CUST0098,Malathi Ganesan,Coimbatore,Retail,UPI
+CUST0099,Viji Elumalai,Salem,Retail,UPI
+CUST0100,Suresh Jayaraman,Tiruppur,Retail,Cash
+CUST0101,Jayanthi Ganesan,Erode,Retail,UPI
+CUST0102,Arun Jayaraman,Coimbatore,Wholesale,Cash
+CUST0103,Kamal Palanivel,Karur,Retail,Card
+CUST0104,Durai Thirumeni,Madurai,Retail,Cash
+CUST0105,Kumar Selvaraj,Coimbatore,Retail,UPI
+CUST0106,Karthik Rathinam,Karur,Retail,UPI
+CUST0107,Sivakumar Govindaraj,Coimbatore,Retail,UPI
+CUST0108,Dinesh Ponnusamy,Kochi,Retail,UPI
+CUST0109,Viji Ayyappan,Namakkal,Retail,Bank Transfer
+CUST0110,Selvam Marimuthu,Mettupalayam,Retail,UPI
+CUST0111,Thenmozhi Narayanan,Erode,Retail,Cash
+CUST0112,Nithya Murugesan,Coimbatore,Retail,UPI
+CUST0113,Sudha Subramaniam,Karur,Retail,Bank Transfer
+CUST0114,Prabhu Ramasamy,Coimbatore,Retail,Cash
+CUST0115,Rajesh Ramamoorthy,Coimbatore,Wholesale,Bank Transfer
+CUST0116,Selvi Arumugam,Tiruppur,Retail,Cash
+CUST0117,Kumar Palaniswamy,Bengaluru,Wholesale,UPI
+CUST0118,Gowtham Somasundaram,Coimbatore,Wholesale,Cash
+CUST0119,Divya Mariappan,Hyderabad,Retail,Card
+CUST0120,Bhuvana Duraisamy,Pollachi,Retail,Cash
+CUST0121,Faisal Jayaraman,Coimbatore,Retail,Card
+CUST0122,Manoj Sakthivel,Tiruppur,Wholesale,Cash
+CUST0123,Arul Elumalai,Mettupalayam,Retail,Bank Transfer
+CUST0124,Soundarya Krishnasamy,Pollachi,Retail,Bank Transfer
+CUST0125,Saravanan Rathinam,Coimbatore,Retail,Card
+CUST0126,Meena Chinnaswamy,Coimbatore,Wholesale,Bank Transfer
+CUST0127,Murugan Thangavel,Tiruppur,Wholesale,Cash
+CUST0128,Muthu Ganesan,Coimbatore,Wholesale,UPI
+CUST0129,Anitha Murugesan,Coimbatore,Wholesale,UPI
+CUST0130,Nithya Jayaraman,Pollachi,Retail,Cash
+CUST0131,Shankar Chinnaswamy,Salem,Wholesale,UPI
+CUST0132,Selvam Ayyappan,Coimbatore,Retail,UPI
+CUST0133,Vijay Ramamoorthy,Salem,Wholesale,Cash
+CUST0134,Kumar Mariappan,Coimbatore,Retail,Cash
+CUST0135,Murugan Narayanan,Coimbatore,Retail,Cash
+CUST0136,Selvam Ponnusamy,Coimbatore,Retail,UPI
+CUST0137,Nirmala Shanmugam,Tiruppur,Retail,UPI
+CUST0138,Senthil Jayaraman,Coimbatore,Retail,Cash
+CUST0139,Rajan Palaniswamy,Tiruppur,Retail,UPI
+CUST0140,Prakash Mariappan,Coimbatore,Wholesale,Bank Transfer
+CUST0141,Deepa Thangavel,Mumbai,Retail,Cash
+CUST0142,Venkat Srinivasan,Tiruppur,Retail,Cash
+CUST0143,Nithya Thirumeni,Tiruppur,Retail,UPI
+CUST0144,Sudha Somasundaram,Tiruppur,Retail,Cash
+CUST0145,Arun Govindaraj,Coimbatore,Retail,UPI
+CUST0146,Murugan Palanivel,Salem,Retail,Cash
+CUST0147,Selvi Palaniswamy,Coimbatore,Wholesale,Cash
+CUST0148,Deepak Shanmugam,Salem,Wholesale,Cash
+CUST0149,Muthu Marimuthu,Coimbatore,Wholesale,Bank Transfer
+CUST0150,Nirmala Venkatesan,Mumbai,Retail,Cash
+CUST0151,Pavithra Chinnaswamy,Bengaluru,Retail,Cash
+CUST0152,Saranya Marimuthu,Hyderabad,Wholesale,Cash
+CUST0153,Logesh Periyasamy,Pollachi,Retail,UPI
+CUST0154,Malathi Periyasamy,Coimbatore,Retail,Card
+CUST0155,Venkat Narayanan,Tiruppur,Retail,UPI
+CUST0156,Pradeep Venkatesan,Salem,Retail,UPI
+CUST0157,Oviyam Marimuthu,Erode,Wholesale,UPI
+CUST0158,Durai Elumalai,Pollachi,Retail,Cash
+CUST0159,Pradeep Thirumeni,Pollachi,Wholesale,Card
+CUST0160,Prakash Ponnusamy,Tiruppur,Retail,UPI
+CUST0161,Rajesh Duraisamy,Coimbatore,Retail,UPI
+CUST0162,Senthil Arumugam,Karur,Retail,Bank Transfer
+CUST0163,Lakshmi Srinivasan,Tiruppur,Retail,UPI
+CUST0164,Tamizharasi Subramaniam,Bengaluru,Retail,UPI
+CUST0165,Ashwin Kaliyaperumal,Karur,Retail,Bank Transfer
+CUST0166,Lakshmi Kaliyaperumal,Erode,Retail,Cash
+CUST0167,Saranya Ganesan,Mettupalayam,Retail,UPI
+CUST0168,Amudha Kaliyaperumal,Salem,Retail,Bank Transfer
+CUST0169,Kamal Ganesan,Pollachi,Retail,Card
+CUST0170,Soundarya Srinivasan,Hyderabad,Retail,Cash
+CUST0171,Ponni Jayaraman,Coimbatore,Retail,UPI
+CUST0172,Harish Sakthivel,Erode,Retail,UPI
+CUST0173,Suresh Kupusamy,Tiruppur,Wholesale,UPI
+CUST0174,Bhuvana Shanmugam,Erode,Retail,Cash
+CUST0175,Venkat Shanmugam,Coimbatore,Retail,Bank Transfer
+CUST0176,Thilak Periyasamy,Coimbatore,Wholesale,Cash
+CUST0177,Sangeetha Ponnusamy,Coimbatore,Retail,Cash
+CUST0178,Anitha Sakthivel,Tiruppur,Retail,UPI
+CUST0179,Thenmozhi Ramasamy,Pollachi,Retail,Cash
+CUST0180,Muthu Narayanan,Karur,Retail,Card
+CUST0181,Meena Balakrishnan,Salem,Retail,Cash
+CUST0182,Bhuvana Krishnasamy,Mumbai,Retail,Cash
+CUST0183,Thenmozhi Ponnusamy,Coimbatore,Retail,Bank Transfer
+CUST0184,Vijayalakshmi Mariappan,Coimbatore,Retail,Cash
+CUST0185,Vignesh Srinivasan,Salem,Retail,Cash
+CUST0186,Balaji Sundaram,Salem,Retail,UPI
+CUST0187,Priya Palaniswamy,Tiruppur,Retail,Cash
+CUST0188,Parvathi Palanivel,Mettupalayam,Wholesale,Cash
+CUST0189,Meena Duraisamy,Coimbatore,Wholesale,Cash
+CUST0190,Radha Thirumeni,Coimbatore,Retail,Cash
+CUST0191,Sudha Palanivel,Dharapuram,Retail,UPI
+CUST0192,Rani Mariappan,Salem,Retail,UPI
+CUST0193,Saranya Ramamoorthy,Coimbatore,Wholesale,UPI
+CUST0194,Anand Subramaniam,Karur,Retail,Cash
+CUST0195,Selvi Ponnusamy,Salem,Retail,Cash
+CUST0196,Suresh Subramaniam,Coimbatore,Retail,Cash
+CUST0197,Parvathi Ganesan,Pollachi,Retail,UPI
+CUST0198,Mythili Duraisamy,Coimbatore,Retail,Cash
+CUST0199,Deepak Soundararajan,Salem,Retail,UPI
+CUST0200,Viji Palanivel,Kochi,Retail,UPI
+CUST0201,Sumathi Muthukrishnan,Coimbatore,Retail,UPI
+CUST0202,Kamal Govindaraj,Coimbatore,Retail,Cash
+CUST0203,Kamal Chinnaswamy,Coimbatore,Wholesale,Bank Transfer
+CUST0204,Murugan Govindaraj,Erode,Retail,UPI
+CUST0205,Revathi Soundararajan,Tiruppur,Wholesale,UPI
+CUST0206,Malathi Subramanian,Coimbatore,Retail,Card
+CUST0207,Selvi Kaliyaperumal,Coimbatore,Retail,UPI
+CUST0208,Nivetha Thangavel,Coimbatore,Retail,UPI
+CUST0209,Deepa Ayyappan,Mettupalayam,Retail,Cash
+CUST0210,Prabhu Marimuthu,Coimbatore,Wholesale,Card
+CUST0211,Arul Selvaraj,Coimbatore,Wholesale,Cash
+CUST0212,Vijayalakshmi Murugesan,Pollachi,Retail,Bank Transfer
+CUST0213,Venkat Palaniswamy,Coimbatore,Wholesale,Card
+CUST0214,Dinesh Srinivasan,Coimbatore,Wholesale,UPI
+CUST0215,Vijay Selvaraj,Coimbatore,Wholesale,UPI
+CUST0216,Anand Palaniswamy,Kochi,Wholesale,Cash
+CUST0217,Anitha Chinnaswamy,Karur,Retail,UPI
+CUST0218,Kamala Sundaram,Pollachi,Retail,Cash
+CUST0219,Mohan Ponnusamy,Coimbatore,Retail,Cash
+CUST0220,Sivakumar Balakrishnan,Coimbatore,Retail,Cash
+CUST0221,Deepa Somasundaram,Erode,Retail,UPI
+CUST0222,Praveen Elumalai,Coimbatore,Retail,Bank Transfer
+CUST0223,Selvam Shanmugam,Mumbai,Retail,Cash
+CUST0224,Vignesh Palanivel,Hyderabad,Wholesale,Bank Transfer
+CUST0225,Gomathi Palanivel,Kochi,Wholesale,Cash
+CUST0226,Ponni Kaliyaperumal,Dharapuram,Retail,UPI
+CUST0227,Balaji Thangavel,Namakkal,Wholesale,UPI
+CUST0228,Priya Somasundaram,Tiruppur,Retail,Cash
+CUST0229,Pavithra Somasundaram,Tiruppur,Retail,UPI
+CUST0230,Manoj Somasundaram,Chennai,Retail,UPI
+CUST0231,Saravanan Ramasamy,Coimbatore,Wholesale,UPI
+CUST0232,Revathi Somasundaram,Hyderabad,Retail,Cash
+CUST0233,Karthik Selvaraj,Mettupalayam,Wholesale,UPI
+CUST0234,Arun Ramamoorthy,Tiruppur,Retail,UPI
+CUST0235,Geetha Thangavel,Coimbatore,Retail,Cash
+CUST0236,Vignesh Subramaniam,Tiruppur,Retail,Cash
+CUST0237,Pandian Periyasamy,Namakkal,Retail,UPI
+CUST0238,Revathi Sundaram,Erode,Retail,Cash
+CUST0239,Viji Krishnasamy,Pollachi,Retail,Cash
+CUST0240,Selvi Balakrishnan,Karur,Retail,Cash
+CUST0241,Gomathi Kupusamy,Dharapuram,Retail,Cash
+CUST0242,Mohan Venkatesan,Hyderabad,Retail,UPI
+CUST0243,Usha Elumalai,Coimbatore,Retail,Cash
+CUST0244,Pavithra Subramaniam,Bengaluru,Retail,UPI
+CUST0245,Arun Palanivel,Coimbatore,Retail,Bank Transfer
+CUST0246,Indira Palanivel,Coimbatore,Retail,Cash
+CUST0247,Indira Govindaraj,Pollachi,Retail,UPI
+CUST0248,Kumar Elumalai,Pollachi,Retail,UPI
+CUST0249,Deepak Srinivasan,Coimbatore,Retail,UPI
+CUST0250,Vasanth Murugesan,Coimbatore,Retail,Card
+CUST0251,Geetha Chinnaswamy,Mumbai,Retail,Cash
+CUST0252,Ilavarasan Sundaram,Coimbatore,Retail,UPI
+CUST0253,Soundarya Shanmugam,Coimbatore,Retail,Bank Transfer
+CUST0254,Shankar Marimuthu,Coimbatore,Wholesale,Card
+CUST0255,Pradeep Subramaniam,Coimbatore,Wholesale,Cash
+CUST0256,Ezhil Ramasamy,Erode,Retail,UPI
+CUST0257,Vijay Somasundaram,Tiruppur,Wholesale,UPI
+CUST0258,Kamala Marimuthu,Coimbatore,Retail,UPI
+CUST0259,Bhuvana Murugesan,Dharapuram,Retail,Cash
+CUST0260,Soundarya Elumalai,Mettupalayam,Retail,UPI
+CUST0261,Amudha Ganesan,Hyderabad,Retail,Cash
+CUST0262,Kalaiselvi Mariappan,Coimbatore,Retail,UPI
+CUST0263,Muthu Rathinam,Salem,Retail,Card
+CUST0264,Jayanthi Palanivel,Pollachi,Wholesale,UPI
+CUST0265,Sathish Jayaraman,Coimbatore,Retail,UPI
+CUST0266,Vijay Rathinam,Mettupalayam,Retail,Cash
+CUST0267,Thilak Shanmugam,Chennai,Wholesale,UPI
+CUST0268,Mythili Balakrishnan,Coimbatore,Retail,UPI
+CUST0269,Kamal Kupusamy,Erode,Wholesale,Bank Transfer
+CUST0270,Natarajan Shanmugam,Bengaluru,Retail,Bank Transfer
+CUST0271,Rajeswari Elumalai,Erode,Retail,UPI
+CUST0272,Arul Kupusamy,Mettupalayam,Wholesale,Card
+CUST0273,Mani Rathinam,Coimbatore,Retail,Cash
+CUST0274,Sharmila Arumugam,Coimbatore,Retail,Card
+CUST0275,Sangeetha Muthukrishnan,Erode,Retail,UPI
+CUST0276,Soundarya Narayanan,Tiruppur,Retail,Cash
+CUST0277,Vasanth Venkatesan,Erode,Retail,Cash
+CUST0278,Sekar Mariappan,Coimbatore,Retail,Cash
+CUST0279,Arul Thirumeni,Karur,Retail,UPI
+CUST0280,Kiruthika Ramamoorthy,Salem,Wholesale,UPI
+CUST0281,Sivakumar Ganesan,Coimbatore,Retail,UPI
+CUST0282,Viji Sundaram,Namakkal,Retail,Cash
+CUST0283,Sumathi Palaniswamy,Tiruppur,Retail,UPI
+CUST0284,Vignesh Somasundaram,Coimbatore,Wholesale,UPI
+CUST0285,Sivakumar Kaliyaperumal,Coimbatore,Retail,UPI
+CUST0286,Prabhu Thirumeni,Coimbatore,Wholesale,UPI
+CUST0287,Deepa Sakthivel,Karur,Wholesale,Cash
+CUST0288,Prabhu Somasundaram,Coimbatore,Wholesale,Cash
+CUST0289,Sekar Venkatesan,Chennai,Wholesale,Cash
+CUST0290,Arun Ganesan,Karur,Retail,Cash
+CUST0291,Kala Subramaniam,Pollachi,Retail,Cash
+CUST0292,Anitha Elumalai,Tiruppur,Retail,UPI
+CUST0293,Rajan Periyasamy,Erode,Retail,Cash
+CUST0294,Sudha Thirumeni,Coimbatore,Retail,UPI
+CUST0295,Mythili Palanivel,Coimbatore,Retail,Cash
+CUST0296,Mohan Subramanian,Dharapuram,Retail,UPI
+CUST0297,Nithya Arumugam,Tiruppur,Retail,Bank Transfer
+CUST0298,Priya Subramaniam,Dharapuram,Retail,Bank Transfer
+CUST0299,Gokul Soundararajan,Mettupalayam,Retail,Cash
+CUST0300,Kavitha Venkatesan,Tiruppur,Wholesale,Cash
+CUST0301,Eswari Ponnusamy,Coimbatore,Retail,UPI
+CUST0302,Brindha Ramamoorthy,Madurai,Retail,Card
+CUST0303,Thilak Palanivel,Mumbai,Wholesale,Cash
+CUST0304,Dinesh Periyasamy,Tiruppur,Retail,Card
+CUST0305,Natarajan Ayyappan,Coimbatore,Retail,Cash
+CUST0306,Viji Duraisamy,Coimbatore,Retail,Cash
+CUST0307,Kamala Krishnasamy,Salem,Retail,UPI
+CUST0308,Suganya Thirumeni,Tiruppur,Wholesale,Cash
+CUST0309,Balaji Ramamoorthy,Madurai,Wholesale,Cash
+CUST0310,Shankar Thangavel,Coimbatore,Retail,Cash
+CUST0311,Saranya Thangavel,Coimbatore,Wholesale,Bank Transfer
+CUST0312,Gomathi Arumugam,Hyderabad,Retail,UPI
+CUST0313,Arjun Elumalai,Namakkal,Wholesale,Cash
+CUST0314,Sumathi Subramaniam,Erode,Retail,UPI
+CUST0315,Rani Subramanian,Coimbatore,Wholesale,UPI
+CUST0316,Kamala Mariappan,Coimbatore,Wholesale,Bank Transfer
+CUST0317,Murugan Chinnaswamy,Erode,Retail,UPI
+CUST0318,Manoj Narayanan,Mumbai,Retail,Cash
+CUST0319,Suresh Duraisamy,Coimbatore,Wholesale,Cash
+CUST0320,Revathi Venkatesan,Erode,Retail,Bank Transfer
+CUST0321,Kavitha Selvaraj,Coimbatore,Retail,Cash
+CUST0322,Mani Somasundaram,Karur,Retail,UPI
+CUST0323,Mohan Palanivel,Coimbatore,Retail,Cash
+CUST0324,Prakash Krishnasamy,Coimbatore,Wholesale,UPI
+CUST0325,Divya Soundararajan,Coimbatore,Retail,UPI
+CUST0326,Kala Elumalai,Tiruppur,Retail,Bank Transfer
+CUST0327,Kumar Ayyappan,Coimbatore,Retail,Cash
+CUST0328,Jayanthi Jayaraman,Coimbatore,Retail,UPI
+CUST0329,Amudha Krishnasamy,Namakkal,Retail,Cash
+CUST0330,Amudha Sundaram,Namakkal,Retail,Cash
+CUST0331,Selvi Ayyappan,Coimbatore,Retail,UPI
+CUST0332,Mythili Subramanian,Pollachi,Retail,Bank Transfer
+CUST0333,Senthil Ramasamy,Coimbatore,Retail,UPI
+CUST0334,Pavithra Krishnasamy,Mettupalayam,Retail,UPI
+CUST0335,Arul Ganesan,Karur,Retail,Cash
+CUST0336,Sekar Soundararajan,Namakkal,Wholesale,Cash
+CUST0337,Arul Rathinam,Namakkal,Retail,UPI
+CUST0338,Sathish Sundaram,Salem,Retail,Cash
+CUST0339,Ponni Soundararajan,Karur,Retail,Cash
+CUST0340,Arun Marimuthu,Madurai,Retail,Cash
+CUST0341,Ganesh Ganesan,Madurai,Wholesale,Cash
+CUST0342,Praveen Sundaram,Coimbatore,Retail,Cash
+CUST0343,Rajeswari Srinivasan,Erode,Wholesale,UPI
+CUST0344,Lakshmi Narayanan,Coimbatore,Retail,Cash
+CUST0345,Nithya Rathinam,Coimbatore,Retail,Cash
+CUST0346,Mani Govindaraj,Chennai,Retail,UPI
+CUST0347,Divya Jayaraman,Coimbatore,Retail,UPI
+CUST0348,Ashwin Narayanan,Erode,Retail,Cash
+CUST0349,Thenmozhi Marimuthu,Coimbatore,Retail,Bank Transfer
+CUST0350,Shankar Subramanian,Erode,Retail,Card
+CUST0351,Manoj Balakrishnan,Karur,Wholesale,Card
+CUST0352,Vasanth Ramamoorthy,Coimbatore,Retail,UPI
+CUST0353,Arjun Narayanan,Madurai,Retail,UPI
+CUST0354,Balaji Duraisamy,Coimbatore,Retail,Cash
+CUST0355,Sumathi Thirumeni,Chennai,Wholesale,Cash
+CUST0356,Kavitha Palaniswamy,Kochi,Retail,Card
+CUST0357,Gokul Palanivel,Kochi,Wholesale,Cash
+CUST0358,Mani Ramamoorthy,Salem,Retail,Card
+CUST0359,Ganesh Muthukrishnan,Madurai,Retail,Bank Transfer
+CUST0360,Rajesh Selvaraj,Coimbatore,Wholesale,Card
+CUST0361,Suresh Mariappan,Coimbatore,Wholesale,Card
+CUST0362,Kamal Marimuthu,Coimbatore,Retail,Card
+CUST0363,Pandian Arumugam,Pollachi,Wholesale,Cash
+CUST0364,Sathish Somasundaram,Pollachi,Wholesale,UPI
+CUST0365,Surya Ayyappan,Erode,Retail,Bank Transfer
+CUST0366,Bhuvana Narayanan,Chennai,Retail,Cash
+CUST0367,Gomathi Sakthivel,Tiruppur,Retail,Cash
+CUST0368,Sangeetha Palaniswamy,Coimbatore,Retail,Cash
+CUST0369,Rajesh Kaliyaperumal,Madurai,Retail,Cash
+CUST0370,Yokesh Subramanian,Pollachi,Wholesale,Card
+CUST0371,Mohan Kaliyaperumal,Coimbatore,Retail,UPI
+CUST0372,Ashwin Chinnaswamy,Madurai,Wholesale,Card
+CUST0373,Prakash Kaliyaperumal,Dharapuram,Wholesale,UPI
+CUST0374,Sivakumar Ramasamy,Bengaluru,Retail,Cash
+CUST0375,Rajeswari Chinnaswamy,Coimbatore,Retail,Cash
+CUST0376,Ramesh Chinnaswamy,Bengaluru,Wholesale,Bank Transfer
+CUST0377,Praveen Murugesan,Salem,Retail,Bank Transfer
+CUST0378,Kala Kupusamy,Pollachi,Wholesale,Card
+CUST0379,Ganesh Sundaram,Coimbatore,Retail,Cash
+CUST0380,Rajan Muthukrishnan,Coimbatore,Retail,Cash
+CUST0381,Senthil Muthukrishnan,Pollachi,Wholesale,Bank Transfer
+CUST0382,Anand Periyasamy,Tiruppur,Wholesale,Bank Transfer
+CUST0383,Muthu Chinnaswamy,Coimbatore,Retail,Bank Transfer
+CUST0384,Geetha Palanivel,Hyderabad,Retail,UPI
+CUST0385,Vignesh Rathinam,Bengaluru,Retail,UPI
+CUST0386,Rani Thirumeni,Coimbatore,Wholesale,Cash
+CUST0387,Praveen Subramaniam,Chennai,Retail,UPI
+CUST0388,Geetha Govindaraj,Salem,Wholesale,UPI
+CUST0389,Kamala Kaliyaperumal,Coimbatore,Retail,Cash
+CUST0390,Rajesh Krishnasamy,Coimbatore,Retail,Cash
+CUST0391,Rajan Kaliyaperumal,Tiruppur,Wholesale,Bank Transfer
+CUST0392,Sumathi Venkatesan,Chennai,Retail,UPI
+CUST0393,Meena Sundaram,Erode,Retail,UPI
+CUST0394,Gomathi Subramanian,Dharapuram,Retail,UPI
+CUST0395,Nirmala Srinivasan,Coimbatore,Retail,Card
+CUST0396,Pradeep Thangavel,Coimbatore,Retail,Bank Transfer
+CUST0397,Nirmala Mariappan,Coimbatore,Retail,UPI
+CUST0398,Oviya Narayanan,Mettupalayam,Retail,Bank Transfer
+CUST0399,Selvam Subramaniam,Coimbatore,Retail,UPI
+CUST0400,Indira Thangavel,Tiruppur,Retail,Bank Transfer
+CUST0401,Radha Muthukrishnan,Coimbatore,Wholesale,Cash
+CUST0402,Ramesh Duraisamy,Coimbatore,Retail,Cash
+CUST0403,Madhan Soundararajan,Pollachi,Wholesale,UPI
+CUST0404,Ezhil Shanmugam,Coimbatore,Retail,Cash
+CUST0405,Balamurugan Selvaraj,Coimbatore,Retail,Card
+CUST0406,Bhuvana Srinivasan,Coimbatore,Retail,UPI
+CUST0407,Selvi Muthukrishnan,Coimbatore,Retail,UPI
+CUST0408,Pradeep Somasundaram,Coimbatore,Retail,Cash
+CUST0409,Suresh Arumugam,Coimbatore,Retail,Card
+CUST0410,Praveen Sakthivel,Coimbatore,Retail,UPI
+CUST0411,Jayanthi Kupusamy,Pollachi,Retail,UPI
+CUST0412,Durai Duraisamy,Coimbatore,Wholesale,UPI
+CUST0413,Prakash Govindaraj,Tiruppur,Retail,UPI
+CUST0414,Sudha Arumugam,Coimbatore,Retail,Cash
+CUST0415,Surya Balakrishnan,Mettupalayam,Retail,Cash
+CUST0416,Saravanan Arumugam,Coimbatore,Retail,Bank Transfer
+CUST0417,Gokul Ponnusamy,Erode,Retail,Card
+CUST0418,Geetha Ganesan,Karur,Retail,UPI
+CUST0419,Dinesh Balakrishnan,Dharapuram,Retail,Bank Transfer
+CUST0420,Jagan Palanivel,Tiruppur,Retail,Bank Transfer
+CUST0421,Parvathi Soundararajan,Pollachi,Retail,Bank Transfer
+CUST0422,Pandian Balakrishnan,Karur,Retail,UPI
+CUST0423,Saranya Ayyappan,Coimbatore,Wholesale,Cash
+CUST0424,Anand Mariappan,Mumbai,Wholesale,Card
+CUST0425,Ponni Kupusamy,Coimbatore,Retail,Bank Transfer
+CUST0426,Praveen Thangavel,Tiruppur,Wholesale,UPI
+CUST0427,Kala Jayaraman,Namakkal,Retail,Bank Transfer
+CUST0428,Geetha Selvaraj,Madurai,Retail,UPI
+CUST0429,Vasanth Elumalai,Tiruppur,Retail,Cash
+CUST0430,Naresh Kupusamy,Tiruppur,Wholesale,Card
+CUST0431,Pandian Kaliyaperumal,Salem,Retail,UPI
+CUST0432,Sathish Mariappan,Tiruppur,Retail,UPI
+CUST0433,Viji Narayanan,Mettupalayam,Wholesale,Bank Transfer
+CUST0434,Sangeetha Ayyappan,Erode,Retail,Cash
+CUST0435,Thilak Sundaram,Erode,Retail,UPI
+CUST0436,Radha Marimuthu,Tiruppur,Retail,UPI
+CUST0437,Arun Chinnaswamy,Coimbatore,Retail,Cash
+CUST0438,Kalaiselvi Krishnasamy,Salem,Retail,Cash
+CUST0439,Manoj Ramasamy,Chennai,Retail,Cash
+CUST0440,Murugan Marimuthu,Mettupalayam,Wholesale,Bank Transfer
+CUST0441,Anand Subramanian,Coimbatore,Wholesale,Cash
+CUST0442,Xavier Govindaraj,Coimbatore,Retail,UPI
+CUST0443,Divya Kupusamy,Coimbatore,Wholesale,Cash
+CUST0444,Arjun Soundararajan,Mumbai,Retail,Card
+CUST0445,Kamal Thangavel,Coimbatore,Retail,UPI
+CUST0446,Ezhil Sakthivel,Coimbatore,Retail,Card
+CUST0447,Arun Thangavel,Mettupalayam,Wholesale,Bank Transfer
+CUST0448,Kumar Venkatesan,Namakkal,Retail,Cash
+CUST0449,Karthik Thangavel,Coimbatore,Retail,Cash
+CUST0450,Bharath Soundararajan,Dharapuram,Wholesale,Cash
+CUST0451,Amudha Govindaraj,Coimbatore,Wholesale,Card
+CUST0452,Thenmozhi Chinnaswamy,Coimbatore,Retail,Bank Transfer
+CUST0453,Senthil Subramanian,Pollachi,Retail,Card
+CUST0454,Sudha Ramamoorthy,Erode,Retail,Cash
+CUST0455,Geetha Kupusamy,Coimbatore,Retail,UPI
+CUST0456,Kumar Murugesan,Coimbatore,Wholesale,UPI
+CUST0457,Rajesh Rathinam,Coimbatore,Retail,Bank Transfer
+CUST0458,Balan Murugesan,Mettupalayam,Retail,Cash
+CUST0459,Gokul Balakrishnan,Tiruppur,Retail,UPI
+CUST0460,Priya Muthukrishnan,Hyderabad,Wholesale,UPI
+CUST0461,Bharath Arumugam,Pollachi,Retail,UPI
+CUST0462,Priya Mariappan,Coimbatore,Wholesale,Card
+CUST0463,Balaji Selvaraj,Coimbatore,Wholesale,UPI
+CUST0464,Soundarya Sundaram,Salem,Retail,Cash
+CUST0465,Saranya Govindaraj,Karur,Retail,Bank Transfer
+CUST0466,Shankar Somasundaram,Salem,Retail,UPI
+CUST0467,Radha Periyasamy,Coimbatore,Retail,UPI
+CUST0468,Nirmala Elumalai,Pollachi,Wholesale,UPI
+CUST0469,Vijayalakshmi Elumalai,Coimbatore,Retail,UPI
+CUST0470,Pavithra Thangavel,Namakkal,Retail,UPI
+CUST0471,Murugan Rathinam,Salem,Retail,Cash
+CUST0472,Rani Somasundaram,Coimbatore,Wholesale,UPI
+CUST0473,Sivakumar Palanivel,Dharapuram,Retail,UPI
+CUST0474,Lakshmi Muthukrishnan,Chennai,Retail,Cash
+CUST0475,Jayanthi Palaniswamy,Mettupalayam,Wholesale,Card
+CUST0476,Venkat Sundaram,Karur,Retail,UPI
+CUST0477,Pradeep Periyasamy,Pollachi,Wholesale,UPI
+CUST0478,Hari Srinivasan,Kochi,Retail,UPI
+CUST0479,Karthik Ramamoorthy,Tiruppur,Retail,UPI
+CUST0480,Thenmozhi Ayyappan,Erode,Retail,UPI
+CUST0481,Rani Periyasamy,Coimbatore,Retail,Card
+CUST0482,Ponni Subramaniam,Madurai,Retail,UPI
+CUST0483,Meena Krishnasamy,Namakkal,Wholesale,Bank Transfer
+CUST0484,Soundarya Govindaraj,Coimbatore,Retail,Cash
+CUST0485,Sathish Kupusamy,Coimbatore,Wholesale,Card
+CUST0486,Indira Rathinam,Coimbatore,Retail,Cash
+CUST0487,Mohan Ganesan,Coimbatore,Retail,UPI
+CUST0488,Ramesh Balakrishnan,Coimbatore,Wholesale,Cash
+CUST0489,Vijayalakshmi Periyasamy,Coimbatore,Retail,Bank Transfer
+CUST0490,Chandru Chinnaswamy,Tiruppur,Wholesale,UPI
+CUST0491,Arjun Mariappan,Bengaluru,Retail,Bank Transfer
+CUST0492,Kalaiselvi Ramamoorthy,Erode,Wholesale,UPI
+CUST0493,Vignesh Arumugam,Coimbatore,Retail,Bank Transfer
+CUST0494,Murugan Arumugam,Coimbatore,Retail,UPI
+CUST0495,Deepak Rathinam,Erode,Wholesale,UPI
+CUST0496,Suresh Soundararajan,Coimbatore,Retail,Card
+CUST0497,Bharath Mariappan,Tiruppur,Retail,Cash
+CUST0498,Mythili Govindaraj,Salem,Retail,Cash
+CUST0499,Muthu Thangavel,Mettupalayam,Retail,Card
+CUST0500,Parvathi Ponnusamy,Tiruppur,Wholesale,Cash
+CUST0501,Durai Murugesan,Salem,Retail,UPI
+CUST0502,Vignesh Thirumeni,Hyderabad,Retail,Cash
+CUST0503,Pradeep Palaniswamy,Coimbatore,Retail,Cash
+CUST0504,Anitha Thangavel,Coimbatore,Wholesale,Cash
+CUST0505,Thilak Narayanan,Pollachi,Retail,Cash
+CUST0506,Kalaiselvi Soundararajan,Pollachi,Retail,Cash
+CUST0507,Abinaya Palaniswamy,Tiruppur,Retail,Cash
+CUST0508,Anitha Marimuthu,Namakkal,Retail,Cash
+CUST0509,Thenmozhi Shanmugam,Pollachi,Retail,Cash
+CUST0510,Rani Sakthivel,Chennai,Wholesale,Cash
+CUST0511,Prabhu Periyasamy,Madurai,Retail,Cash
+CUST0512,Kalaiselvi Selvaraj,Bengaluru,Wholesale,UPI
+CUST0513,Ezhil Ayyappan,Coimbatore,Wholesale,Cash
+CUST0514,Pandian Elumalai,Mettupalayam,Retail,Cash
+CUST0515,Ashwin Ramasamy,Coimbatore,Retail,Cash
+CUST0516,Saravanan Subramanian,Dharapuram,Retail,UPI
+CUST0517,Sekar Jayaraman,Coimbatore,Wholesale,UPI
+CUST0518,Sangeetha Kaliyaperumal,Salem,Retail,UPI
+CUST0519,Sumathi Sakthivel,Tiruppur,Retail,UPI
+CUST0520,Venkat Govindaraj,Tiruppur,Retail,UPI
+CUST0521,Sumathi Ramasamy,Salem,Retail,UPI
+CUST0522,Abinav Ramasamy,Pollachi,Retail,UPI
+CUST0523,Meena Ramamoorthy,Coimbatore,Wholesale,Cash
+CUST0524,Nithya Subramaniam,Pollachi,Retail,Cash
+CUST0525,Muthu Palanivel,Coimbatore,Retail,Cash
+CUST0526,Kavitha Ayyappan,Coimbatore,Retail,Cash
+CUST0527,Balaji Krishnasamy,Pollachi,Retail,Cash
+CUST0528,Jayanthi Ramasamy,Tiruppur,Retail,Bank Transfer
+CUST0529,Mythili Ganesan,Coimbatore,Retail,UPI
+CUST0530,Sudha Rathinam,Madurai,Wholesale,UPI
+CUST0531,Vignesh Ramamoorthy,Coimbatore,Retail,UPI
+CUST0532,Jayanthi Subramanian,Pollachi,Retail,Cash
+CUST0533,Anitha Srinivasan,Coimbatore,Wholesale,Cash
+CUST0534,Anand Thirumeni,Tiruppur,Retail,Cash
+CUST0535,Suganya Kaliyaperumal,Coimbatore,Retail,Card
+CUST0536,Tharun Murugesan,Coimbatore,Wholesale,Cash
+CUST0537,Sivakumar Ponnusamy,Mettupalayam,Retail,Bank Transfer
+CUST0538,Lakshmi Periyasamy,Pollachi,Retail,UPI
+CUST0539,Rajan Shanmugam,Tiruppur,Retail,Bank Transfer
+CUST0540,Saravanan Kupusamy,Coimbatore,Wholesale,Cash
+CUST0541,Vanitha Duraisamy,Tiruppur,Wholesale,Cash
+CUST0542,Sathish Ponnusamy,Tiruppur,Wholesale,Card
+CUST0543,Deepa Shanmugam,Salem,Wholesale,Cash
+CUST0544,Bharath Balakrishnan,Pollachi,Retail,Bank Transfer
+CUST0545,Divya Arumugam,Coimbatore,Retail,UPI
+CUST0546,Balan Ramasamy,Karur,Retail,Cash
+CUST0547,Naresh Palaniswamy,Coimbatore,Retail,Cash
+CUST0548,Divya Thirumeni,Pollachi,Wholesale,Bank Transfer
+CUST0549,Geetha Shanmugam,Coimbatore,Wholesale,Cash
+CUST0550,Kamala Rathinam,Tiruppur,Retail,Cash
+CUST0551,Suganya Chinnaswamy,Coimbatore,Retail,UPI
+CUST0552,Thilak Ayyappan,Mettupalayam,Retail,UPI
+CUST0553,Meena Rathinam,Mumbai,Retail,Cash
+CUST0554,Rajan Arumugam,Erode,Retail,Cash
+CUST0555,Naresh Ramasamy,Pollachi,Retail,Cash
+CUST0556,Dharini Narayanan,Pollachi,Retail,Card
+CUST0557,Mohan Sundaram,Erode,Wholesale,Cash
+CUST0558,Vijayalakshmi Ramamoorthy,Salem,Retail,Card
+CUST0559,Selvam Ramasamy,Dharapuram,Wholesale,Cash
+CUST0560,Prabhu Subramaniam,Tiruppur,Retail,Bank Transfer
+CUST0561,Vijay Subramaniam,Coimbatore,Retail,UPI
+CUST0562,Kala Rathinam,Tiruppur,Retail,UPI
+CUST0563,Rajesh Mariappan,Karur,Retail,Bank Transfer
+CUST0564,Karthik Krishnasamy,Tiruppur,Retail,UPI
+CUST0565,Praveen Srinivasan,Salem,Retail,UPI
+CUST0566,Harish Selvaraj,Erode,Retail,Cash
+CUST0567,Suganya Subramanian,Salem,Retail,Cash
+CUST0568,Rajeswari Marimuthu,Erode,Retail,UPI
+CUST0569,Prabhu Palaniswamy,Hyderabad,Retail,Cash
+CUST0570,Dinesh Muthukrishnan,Coimbatore,Retail,UPI
+CUST0571,Natarajan Sundaram,Salem,Retail,UPI
+CUST0572,Balan Srinivasan,Pollachi,Retail,Card
+CUST0573,Kala Somasundaram,Coimbatore,Retail,Card
+CUST0574,Sangeetha Periyasamy,Hyderabad,Retail,UPI
+CUST0575,Kavitha Mariappan,Pollachi,Retail,Cash
+CUST0576,Prakash Ganesan,Coimbatore,Retail,UPI
+CUST0577,Suganya Ayyappan,Coimbatore,Retail,Cash
+CUST0578,Kavitha Elumalai,Bengaluru,Retail,UPI
+CUST0579,Pandian Muthukrishnan,Karur,Retail,Cash
+CUST0580,Viji Periyasamy,Tiruppur,Wholesale,Card
+CUST0581,Bharath Thirumeni,Erode,Wholesale,UPI
+CUST0582,Durai Ramasamy,Salem,Wholesale,Cash
+CUST0583,Bharath Venkatesan,Tiruppur,Retail,Cash
+CUST0584,Gokul Sakthivel,Bengaluru,Wholesale,UPI
+CUST0585,Lakshmi Ponnusamy,Erode,Wholesale,Cash
+CUST0586,Parvathi Govindaraj,Erode,Wholesale,Cash
+CUST0587,Harish Muthukrishnan,Tiruppur,Retail,Bank Transfer
+CUST0588,Lakshmi Palaniswamy,Erode,Retail,Bank Transfer
+CUST0589,Senthil Selvaraj,Madurai,Wholesale,Cash
+CUST0590,Praveen Chinnaswamy,Hyderabad,Wholesale,UPI
+CUST0591,Amudha Ponnusamy,Coimbatore,Retail,UPI
+CUST0592,Suresh Venkatesan,Mettupalayam,Retail,UPI
+CUST0593,Nithya Somasundaram,Dharapuram,Retail,Bank Transfer
+CUST0594,Kamala Selvaraj,Salem,Retail,UPI
+CUST0595,Malathi Kupusamy,Coimbatore,Retail,UPI
+CUST0596,Suganya Shanmugam,Mumbai,Retail,Bank Transfer
+CUST0597,Kannan Sakthivel,Erode,Retail,Cash
+CUST0598,Ezhil Subramanian,Coimbatore,Retail,UPI
+CUST0599,Prakash Ramasamy,Erode,Retail,UPI
+CUST0600,Divya Venkatesan,Mettupalayam,Wholesale,Cash
+CUST0601,Balan Thirumeni,Namakkal,Wholesale,UPI
+CUST0602,Sathish Soundararajan,Coimbatore,Retail,UPI
+CUST0603,Indira Selvaraj,Coimbatore,Wholesale,Cash
+CUST0604,Surya Periyasamy,Coimbatore,Retail,Card
+CUST0605,Kamala Duraisamy,Pollachi,Retail,Card
+CUST0606,Priya Subramanian,Coimbatore,Wholesale,Cash
+CUST0607,Natarajan Ganesan,Dharapuram,Wholesale,Bank Transfer
+CUST0608,Deepa Balakrishnan,Mettupalayam,Retail,Cash
+CUST0609,Kalaiselvi Sundaram,Karur,Wholesale,Cash
+CUST0610,Harish Govindaraj,Pollachi,Wholesale,UPI
+CUST0611,Revathi Arumugam,Hyderabad,Wholesale,Cash
+CUST0612,Mythili Sundaram,Erode,Retail,Cash
+CUST0613,Sudha Selvaraj,Salem,Wholesale,Bank Transfer
+CUST0614,Rajan Ponnusamy,Namakkal,Wholesale,UPI
+CUST0615,Ashwin Sakthivel,Salem,Wholesale,UPI
+CUST0616,Gokul Duraisamy,Salem,Wholesale,Bank Transfer
+CUST0617,Keerthana Subramanian,Coimbatore,Retail,UPI
+CUST0618,Radha Subramaniam,Coimbatore,Retail,UPI
+CUST0619,Prakash Balakrishnan,Coimbatore,Retail,UPI
+CUST0620,Ashwin Shanmugam,Coimbatore,Retail,Cash
+CUST0621,Nithya Ramamoorthy,Coimbatore,Retail,Cash
+CUST0622,Gokul Govindaraj,Coimbatore,Retail,Cash
+CUST0623,Yazhini Ganesan,Bengaluru,Retail,UPI
+CUST0624,Ashwin Thirumeni,Tiruppur,Retail,UPI
+CUST0625,Bhuvana Ayyappan,Karur,Retail,Cash
+CUST0626,Karthik Duraisamy,Coimbatore,Retail,UPI
+CUST0627,Pavithra Srinivasan,Tiruppur,Retail,Cash
+CUST0628,Durai Chinnaswamy,Coimbatore,Retail,Cash
+CUST0629,Deepak Venkatesan,Coimbatore,Retail,Card
+CUST0630,Akash Muthukrishnan,Erode,Wholesale,Card
+CUST0631,Aakash Mariappan,Mumbai,Retail,UPI
+CUST0632,Natarajan Murugesan,Tiruppur,Wholesale,UPI
+CUST0633,Vijayalakshmi Venkatesan,Salem,Wholesale,UPI
+CUST0634,Nirmala Rathinam,Coimbatore,Wholesale,Bank Transfer
+CUST0635,Rajan Elumalai,Tiruppur,Retail,Cash
+CUST0636,Parvathi Kaliyaperumal,Madurai,Wholesale,UPI
+CUST0637,Ranjitha Ponnusamy,Karur,Retail,Cash
+CUST0638,Vasanth Srinivasan,Chennai,Retail,UPI
+CUST0639,Amudha Balakrishnan,Bengaluru,Retail,Bank Transfer
+CUST0640,Ganesh Duraisamy,Erode,Retail,Cash
+CUST0641,Vasanth Mariappan,Pollachi,Wholesale,Bank Transfer
+CUST0642,Senthil Sakthivel,Tiruppur,Retail,UPI
+CUST0643,Anitha Subramaniam,Pollachi,Wholesale,Card
+CUST0644,Vasanth Narayanan,Salem,Wholesale,UPI
+CUST0645,Prabu Shanmugam,Coimbatore,Retail,Cash
+CUST0646,Shankar Murugesan,Coimbatore,Retail,Card
+CUST0647,Bhuvana Sundaram,Erode,Retail,Cash
+CUST0648,Pandian Shanmugam,Coimbatore,Retail,UPI
+CUST0649,Mani Selvaraj,Tiruppur,Retail,UPI
+CUST0650,Chandra Thangavel,Erode,Retail,UPI
+CUST0651,Dinesh Jayaraman,Mettupalayam,Retail,UPI
+CUST0652,Selvi Periyasamy,Coimbatore,Wholesale,Cash
+CUST0653,Arul Somasundaram,Karur,Retail,Cash
+CUST0654,Sumathi Somasundaram,Mettupalayam,Retail,UPI
+CUST0655,Ezhil Narayanan,Pollachi,Retail,UPI
+CUST0656,Ezhil Subramaniam,Coimbatore,Retail,Card
+CUST0657,Balaji Rathinam,Erode,Wholesale,Cash
+CUST0658,Naresh Subramanian,Pollachi,Wholesale,Card
+CUST0659,Thenmozhi Sakthivel,Pollachi,Retail,Bank Transfer
+CUST0660,Balaji Soundararajan,Erode,Retail,Cash
+CUST0661,Arjun Venkatesan,Coimbatore,Retail,UPI
+CUST0662,Natarajan Narayanan,Bengaluru,Retail,UPI
+CUST0663,Indira Narayanan,Madurai,Retail,UPI
+CUST0664,Karthik Sundaram,Salem,Retail,Cash
+CUST0665,Deepa Narayanan,Coimbatore,Wholesale,Cash
+CUST0666,Sathish Venkatesan,Coimbatore,Wholesale,Bank Transfer
+CUST0667,Gomathi Jayaraman,Dharapuram,Wholesale,Bank Transfer
+CUST0668,Kalaiselvi Duraisamy,Tiruppur,Retail,Cash
+CUST0669,Mani Murugesan,Coimbatore,Retail,UPI
+CUST0670,Prabhu Muthukrishnan,Tiruppur,Retail,Cash
+CUST0671,Saranya Palanivel,Salem,Retail,UPI
+CUST0672,Natarajan Krishnasamy,Madurai,Retail,UPI
+CUST0673,Ganesh Murugesan,Salem,Retail,UPI
+CUST0674,Nirmal Rathinam,Erode,Retail,Cash
+CUST0675,Rajesh Marimuthu,Tiruppur,Retail,Cash
+CUST0676,Kavitha Soundararajan,Coimbatore,Wholesale,UPI
+CUST0677,Elango Balakrishnan,Namakkal,Retail,UPI
+CUST0678,Praveen Marimuthu,Dharapuram,Retail,UPI
+CUST0679,Saranya Jayaraman,Coimbatore,Retail,Cash
+CUST0680,Rajeswari Thangavel,Salem,Wholesale,Bank Transfer
+CUST0681,Indira Ganesan,Coimbatore,Retail,Cash
+CUST0682,Viji Shanmugam,Chennai,Retail,Cash
+CUST0683,Suganya Ramasamy,Coimbatore,Retail,Cash
+CUST0684,Surya Muthukrishnan,Erode,Retail,UPI
+CUST0685,Ponni Arumugam,Madurai,Retail,UPI
+CUST0686,Ramesh Venkatesan,Kochi,Retail,Card
+CUST0687,Deepa Subramanian,Coimbatore,Retail,Card
+CUST0688,Dinesh Palaniswamy,Mettupalayam,Retail,UPI
+CUST0689,Sangeetha Narayanan,Erode,Retail,UPI
+CUST0690,Pradeep Sakthivel,Pollachi,Wholesale,Card
+CUST0691,Vignesh Selvaraj,Salem,Retail,UPI
+CUST0692,Naresh Palanivel,Tiruppur,Retail,Bank Transfer
+CUST0693,Dinesh Kaliyaperumal,Salem,Wholesale,UPI
+CUST0694,Ramesh Selvaraj,Tiruppur,Retail,Cash
+CUST0695,Kamal Shanmugam,Tiruppur,Retail,UPI
+CUST0696,Rajeswari Duraisamy,Coimbatore,Retail,Bank Transfer
+CUST0697,Anand Somasundaram,Coimbatore,Retail,UPI
+CUST0698,Pradeep Muthukrishnan,Coimbatore,Wholesale,Cash
+CUST0699,Arun Ayyappan,Pollachi,Retail,Card
+CUST0700,Harish Jayaraman,Namakkal,Retail,UPI
+CUST0701,Arjun Periyasamy,Coimbatore,Retail,UPI
+CUST0702,Jayanthi Sakthivel,Salem,Wholesale,UPI
+CUST0703,Meena Venkatesan,Coimbatore,Wholesale,UPI
+CUST0704,Soundarya Duraisamy,Coimbatore,Wholesale,UPI
+CUST0705,Ezhil Ponnusamy,Tiruppur,Retail,UPI
+CUST0706,Amudha Ramasamy,Coimbatore,Retail,Cash
+CUST0707,Gokul Ganesan,Salem,Retail,Cash
+CUST0708,Kavitha Srinivasan,Coimbatore,Retail,Cash
+CUST0709,Divya Balakrishnan,Coimbatore,Wholesale,UPI
+CUST0710,Vijay Elumalai,Tiruppur,Retail,Cash
+CUST0711,Rani Palaniswamy,Coimbatore,Wholesale,Cash
+CUST0712,Qadhar Kaliyaperumal,Coimbatore,Retail,Cash
+CUST0713,Saravanan Ganesan,Salem,Retail,UPI
+CUST0714,Nirmala Murugesan,Coimbatore,Retail,Cash
+CUST0715,Balan Duraisamy,Hyderabad,Retail,UPI
+CUST0716,Ganesh Krishnasamy,Coimbatore,Retail,UPI
+CUST0717,Rani Subramaniam,Coimbatore,Retail,UPI
+CUST0718,Suresh Kaliyaperumal,Kochi,Wholesale,Cash
+CUST0719,Mythili Ponnusamy,Namakkal,Retail,Card
+CUST0720,Bharath Jayaraman,Namakkal,Retail,UPI
+CUST0721,Arjun Ramamoorthy,Coimbatore,Wholesale,Cash
+CUST0722,Vijay Ganesan,Tiruppur,Retail,Cash
+CUST0723,Muthu Arumugam,Tiruppur,Retail,Cash
+CUST0724,Radha Ramasamy,Dharapuram,Retail,UPI
+CUST0725,Saravanan Periyasamy,Coimbatore,Retail,UPI
+CUST0726,Pavithra Elumalai,Salem,Retail,Card
+CUST0727,Kumar Srinivasan,Erode,Retail,UPI
+CUST0728,Karthik Soundararajan,Coimbatore,Retail,Card
+CUST0729,Pavithra Marimuthu,Chennai,Wholesale,UPI
+CUST0730,Vijay Kupusamy,Erode,Retail,Cash
+CUST0731,Indira Marimuthu,Erode,Retail,Card
+CUST0732,Aruna Venkatesan,Karur,Retail,UPI
+CUST0733,Revathi Mariappan,Mettupalayam,Wholesale,UPI
+CUST0734,Deepak Mariappan,Coimbatore,Retail,UPI
+CUST0735,Prabhu Soundararajan,Coimbatore,Wholesale,Cash
+CUST0736,Senthil Govindaraj,Dharapuram,Retail,Cash
+CUST0737,Gomathi Govindaraj,Pollachi,Wholesale,UPI
+CUST0738,Nirmala Muthukrishnan,Coimbatore,Retail,UPI
+CUST0739,Balaji Ponnusamy,Pollachi,Retail,UPI
+CUST0740,Sivakumar Krishnasamy,Coimbatore,Retail,Cash
+CUST0741,Vasanth Periyasamy,Dharapuram,Retail,UPI
+CUST0742,Kala Selvaraj,Coimbatore,Retail,Card
+CUST0743,Vasanth Soundararajan,Tiruppur,Wholesale,UPI
+CUST0744,Shankar Elumalai,Coimbatore,Retail,Cash
+CUST0745,Venkat Duraisamy,Coimbatore,Retail,UPI
+CUST0746,Bharath Kupusamy,Mettupalayam,Wholesale,UPI
+CUST0747,Surya Kaliyaperumal,Mettupalayam,Retail,UPI
+CUST0748,Lakshmi Jayaraman,Coimbatore,Retail,UPI
+CUST0749,Karthik Ponnusamy,Coimbatore,Retail,UPI
+CUST0750,Pandian Palaniswamy,Pollachi,Retail,Bank Transfer
+CUST0751,Ganesh Shanmugam,Coimbatore,Retail,Cash
+CUST0752,Kalaiselvi Rathinam,Bengaluru,Retail,Cash
+CUST0753,Kumar Soundararajan,Coimbatore,Retail,Cash
+CUST0754,Murugan Ganesan,Tiruppur,Wholesale,UPI
+CUST0755,Radha Soundararajan,Erode,Retail,UPI
+CUST0756,Manoj Thangavel,Bengaluru,Wholesale,UPI
+CUST0757,Gokul Kaliyaperumal,Tiruppur,Retail,UPI
+CUST0758,Sekar Arumugam,Karur,Retail,Cash
+CUST0759,Suganya Sakthivel,Salem,Retail,Cash
+CUST0760,Fathima Arumugam,Coimbatore,Retail,Cash
+CUST0761,Prakash Palanivel,Coimbatore,Retail,Bank Transfer
+CUST0762,Pavithra Murugesan,Mettupalayam,Retail,UPI
+CUST0763,Shankar Srinivasan,Erode,Retail,UPI
+CUST0764,Ponni Balakrishnan,Coimbatore,Retail,Cash
+CUST0765,Deepak Elumalai,Namakkal,Wholesale,Cash
+CUST0766,Rajeswari Murugesan,Hyderabad,Retail,UPI
+CUST0767,Amudha Palanivel,Coimbatore,Wholesale,UPI
+CUST0768,Pandian Ponnusamy,Coimbatore,Retail,Cash
+CUST0769,Arul Ramamoorthy,Coimbatore,Retail,Bank Transfer
+CUST0770,Sindhu Venkatesan,Karur,Wholesale,Bank Transfer
+CUST0771,Suganya Narayanan,Karur,Retail,UPI
+CUST0772,Vijay Thirumeni,Hyderabad,Retail,Card
+CUST0773,Revathi Jayaraman,Mettupalayam,Wholesale,UPI
+CUST0774,Parvathi Duraisamy,Tiruppur,Retail,Cash
+CUST0775,Stalin Thirumeni,Coimbatore,Retail,UPI
+CUST0776,Thilak Duraisamy,Kochi,Retail,Cash
+CUST0777,Sekar Kupusamy,Coimbatore,Wholesale,UPI
+CUST0778,Ganesh Ayyappan,Coimbatore,Wholesale,Cash
+CUST0779,Vijayalakshmi Soundararajan,Coimbatore,Retail,Card
+CUST0780,Kala Ramamoorthy,Coimbatore,Wholesale,UPI
+CUST0781,Sekar Duraisamy,Coimbatore,Wholesale,Cash
+CUST0782,Sekar Kaliyaperumal,Bengaluru,Retail,Bank Transfer
+CUST0783,Malathi Jayaraman,Tiruppur,Retail,UPI
+CUST0784,Muthu Govindaraj,Dharapuram,Retail,Cash
+CUST0785,Arul Subramaniam,Coimbatore,Retail,Cash
+CUST0786,Lakshmi Balakrishnan,Coimbatore,Wholesale,UPI
+CUST0787,Divya Ponnusamy,Pollachi,Retail,Card
+CUST0788,Thenmozhi Subramanian,Erode,Retail,UPI
+CUST0789,Manoj Shanmugam,Salem,Retail,Bank Transfer
+CUST0790,Deepak Muthukrishnan,Chennai,Wholesale,UPI
+CUST0791,Parvathi Balakrishnan,Mumbai,Wholesale,Cash
+CUST0792,Sathish Arumugam,Coimbatore,Retail,Cash
+CUST0793,Bharath Krishnasamy,Karur,Retail,UPI
+CUST0794,Malathi Rathinam,Erode,Retail,UPI
+CUST0795,Malathi Ramasamy,Coimbatore,Wholesale,UPI
+CUST0796,Venkat Krishnasamy,Tiruppur,Retail,Cash
+CUST0797,Nirmala Soundararajan,Coimbatore,Retail,Cash
+CUST0798,Mythili Kaliyaperumal,Salem,Retail,UPI
+CUST0799,Mani Thirumeni,Coimbatore,Retail,UPI
+CUST0800,Jayanthi Arumugam,Coimbatore,Retail,Cash
